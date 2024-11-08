@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://www.billboard.com/wp-content/uploads/2023/08/travis-scott-circus-maximus-2023-billboard-8-1548.jpg?w=800"); /* The image used */
+   
+    background-position: down; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+}
+table, tr, td{
+    border: 1px solid white;
+}
+h4 {background-color:#c9c0c0 ;}
+
+#table2 { 
+
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+
+}
+
